@@ -3,4 +3,4 @@ node_modules/**
 bower_components/**
 test/**
 dist/**
-package.json
+package-lock.json
