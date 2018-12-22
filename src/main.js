@@ -1,0 +1,1 @@
+var host = "https://www.khairi.mkd"
